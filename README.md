@@ -10,8 +10,8 @@
 ## 🔧 Tech Stack & Skills
 
 - **Languages:** Dart, Python, C#, SQL, (Java, Swift)  
-- **Frameworks & Libraries:** Flutter, FastAPI, aiogram, TensorFlow, scikit-learn, Unity  
-- **Databases:** Firebase, MySQL, SQLite, PostgreSQL  
+- **Frameworks & Libraries:** Flutter, FastAPI, Django, Unity, Aiogram, TensorFlow, Scikit-learn,   
+- **Databases:** Firebase, MySQL, SQLite, PostgreSQL, MongoDB, Redis
 - **Tools & Platforms:** Git, Docker, REST APIs, WebSockets, Linux, macOS  
 
 ---
