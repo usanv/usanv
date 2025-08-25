@@ -27,7 +27,7 @@
 ---
 
 ## 📫 How to reach me
-- Email: **usanov_2501@mail.ru**
+- Email: **usanov_2501@mail.ru** **/** **a@usanov.co**
 
 ---
 ✨ *Always open to collaboration and new challenges!*
